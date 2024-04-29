@@ -1,2 +1,2 @@
-# intersect
+# Intersect
 IntersectMBO
